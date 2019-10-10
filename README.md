@@ -1,3 +1,5 @@
+# THIS FORK IS OUTDATED! USE THE BIGWIGS VERSION FOR PRODUCTION.
+
 # release.sh
 
 __release.sh__ generates an addon zip file from a Git or SVN checkout.
